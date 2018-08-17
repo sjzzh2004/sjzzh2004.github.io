@@ -8,6 +8,7 @@ description: PHP操作Session的原理及提升安全性时的一个问题
 
 ### Session和Cookie基本介绍
 
+zhanghangtest
 相同点：两者都是保存用户的临时信息，以方便用户和网站之间的交互
 
 不同点：Session保存在服务器端，只有服务器端才可查看和修改。服务器端通过客户端在cookie中携带的session_id来获得保存在服务器端的用户数据。Cookie保存在客户端，服务端和客户端都可以对其进行修改。
