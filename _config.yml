@@ -7,16 +7,16 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 闫肃
-  email: suyan0830@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  name: 张航 hang zhang
+  email: sjzzh2004@sina.com
+  link: http://sjzzh2004.github.io
+  weibo: http://weibo.com/
+  github: http://github.com/sjzzh2004
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: hang's blog 
+description: To take notes on what I've learned
+url: http://sjzzh2004.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -26,7 +26,7 @@ favicon: http://yansu-uploads.stor.sinaapp.com/imgs/favicon.ico
 # google analytics 设置
 ga:
   id: UA-54767140-1
-  url: yansu.org
+  url: http://sjzzh2004.github.io
 
 # disqus 设置
 disqus:
