@@ -1,7 +1,7 @@
 ---
 layout: post
 title: test
-category: 技术
+category: test
 tags: hhh
 keywords: aabbtest
 description: sss
